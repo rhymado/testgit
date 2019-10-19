@@ -3,7 +3,7 @@ let c = [4, 5, 6, 7, 8];
 let b = {
   firstName: 'Fakhri',
   midName: 'Ridho',
-  lastName: 'Dhiyamatra',
+  lastName: 'Dhiyamatr',
 };
 
 // for (let i = 0; i < a.length; i++) {
